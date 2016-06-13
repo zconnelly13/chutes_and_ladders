@@ -26,6 +26,7 @@ Initially one could imagine how you'd model such a game and how you'd use
 that model to implement a command-line version of the game.
 
 To add some complexity you might ask questions like... 
+
 1. Given a representation of a random board, how would you compute the shortest
    number of rolls to win?
    - how would your algorithm detect an unsolvable board?
@@ -33,11 +34,13 @@ To add some complexity you might ask questions like...
    get for going first?
 
 Or some questions about generating a board
+
 1. Given dimensions `M x N` as well as a number of chutes and number of ladders how
    would you generate a random "playable" board?
    - how would this algorithm detect if the constraints made it unsolvable?
 
 Or, my favorite (and one where as of writing this I cannot think of a solution)
+
 1. Given a representation of a random board, if you were allowed to weight your 
    di (or spinner), how would you compute the optimal weights to finish the game
    the fastest on average?
