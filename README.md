@@ -6,7 +6,7 @@ Pleasantly amused by the simplicity of the game I realized that there was a
 pile of interesting questions to ask. In fact, this could make for a great
 set of interview questions.
 
-![](http://i.imgur.com/N6m4ZQ9.jpg)
+<img height="400px" src='http://i.imgur.com/N6m4ZQ9.jpg'>
 
 # The Rules
 
